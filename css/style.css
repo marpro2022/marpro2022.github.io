@@ -63,8 +63,6 @@ ul li.active a{
 }
 
 .button{
-	max-width: 1500px;
-	margin: auto;
 	position: absolute;
 	top: 62%;
 	left: 50%;
